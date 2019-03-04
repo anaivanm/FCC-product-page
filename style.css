@@ -1,0 +1,44 @@
+header {
+  background: #EEEEEE;
+}
+
+.nav-logo {
+  background-image: url('http://dapperdanpomade.net/wp-content/uploads/2015/01/Dapper-Dan-Pomade.gif');
+  background-size: cover;
+  width: 100%;
+}
+
+h3, h4, a, h5 {
+  font-family: 'Pacifico', cursive;
+}
+
+li {
+  list-style: none;
+  font-family: 'Libre Baskerville', serif;
+  line-height: 2rem;
+}
+
+label {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.nav-link {
+  color: #4D4D4D;
+}
+
+.nav-link:hover {
+  opacity: .8;
+  color: #A92926;
+}
+
+.card-title {
+  color: #A92926;
+}
+
+.price-cards {
+  background: #EEEEEE;
+}
+
+#link-features {
+  background: #EEEEEE;
+}
